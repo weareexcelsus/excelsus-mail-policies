@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mail.excelsus.me
+mx: ms1.praatr.com
 max_age: 86400
