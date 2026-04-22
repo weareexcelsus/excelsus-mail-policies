@@ -10,7 +10,7 @@ It ensures secure email transport by enforcing TLS encryption and providing visi
 - **Policy file:** `.well-known/mta-sts.txt`  
 - **Version:** STSv1  
 - **Mode:** enforce  
-- **MX Hosts:** `mail.excelsus.me`  
+- **MX Hosts:** `ms1.praatr.com`  
 - **Max Age:** 86400 seconds (24 hours)
 
 This policy instructs external mail servers to always use STARTTLS with valid certificates when delivering mail to `excelsus.me`.
